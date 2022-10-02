@@ -1,0 +1,7 @@
+**This Project is Developed In ASP.Net Core MVC Web Application**
+
+This A Basic CRUD application With Validations ,Authentication and Also Authrorization
+
+Code First Approch Is Used to create Database and Tables
+
+And Finally .. Total , Average , Class and Result Of the Student Will be Generated From The Inputs of tHe User 
